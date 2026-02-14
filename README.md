@@ -80,7 +80,7 @@ Tech Stack
 
 How to Run the Project
 1- Clone Repository
-    git clone https://github.com/rohitsutar1611-ops/customer-intelligence-engine.git
+    git clone https://github.com/rohitsutar1611-ops/Customer-Intelligence-Churn-Prediction-System.git
     
 2- Install Dependencies
     pip install -r requirements.txt
